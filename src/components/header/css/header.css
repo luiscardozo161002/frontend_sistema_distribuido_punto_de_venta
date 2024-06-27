@@ -1,0 +1,17 @@
+.font__navbar{
+    background-color: #843C0C;
+}
+
+
+
+@media (min-width: 768px) {
+    .navbar_res{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+     }
+  }
+  
+
+
+
